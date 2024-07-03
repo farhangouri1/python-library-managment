@@ -6,7 +6,7 @@ This project is a Library Management System implemented in Python using tkinter 
 
 ## Features
 * **GUI Interface:** Built with tkinter, providing an intuitive interface for users.
-* **Data Storage:** Uses CSV files (`books.csv` and `members.csv`) to store book and member information.
+* **Data Storage:** Uses CSV files (`books.csv` and `borrower_details.csv`) to store book and member information.
 * **Functionality:**
   * Add, edit, and delete books.
   * Add, edit, and delete members.
